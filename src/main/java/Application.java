@@ -16,5 +16,5 @@ public class Application {
         String output = hello.sayHello();
 
         System.out.println(output);
-    }
+    };
 }
